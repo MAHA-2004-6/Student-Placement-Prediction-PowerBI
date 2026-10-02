@@ -240,6 +240,51 @@ Users can interact with the dashboard using filters such as:
 
 These filters allow users to explore specific student groups and understand how placement and salary metrics change.
 
+
+## 👩‍💻 Author
+
+### Mahalakshmi A K
+
+**B.E. Computer Science and Engineering**
+
+**Aspiring Data Scientist | AI/ML | Power BI | Data Analytics**
+
+### Skills
+
+- Power BI
+- DAX
+- Power Query
+- Data Cleaning
+- Data Transformation
+- Data Modelling
+- Data Visualisation
+- Dashboard Development
+- KPI Development
+- Interactive Slicers & Filters
+- Data Analysis
+- Business Intelligence
+- Analytical Thinking
+- Data Storytelling
+- Java
+- React
+-  MySQL
+
+### Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mahaarul06/
+- 🐙 GitHub: https://github.com/MAHA-2004-6
+
+---
+
+## ⭐ Acknowledgement
+
+This project was developed as part of my learning and portfolio development in **Data Analytics, Business Intelligence, and Data Science**.
+
+---
+
+## 📄 License
+
+This project is intended for educational and portfolio purposes.
 ---
 
 
