@@ -242,15 +242,4 @@ These filters allow users to explore specific student groups and understand how 
 
 ---
 
-# 🧮 DAX Measures
 
-Several DAX measures were created to calculate important business metrics.
-
-### Placement Rate
-
-```DAX
-Placement Rate =
-DIVIDE(
-    [Placed Students],
-    [Total Students]
-)
